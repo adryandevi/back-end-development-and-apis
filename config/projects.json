@@ -18,7 +18,7 @@
     "dashedName": "build-a-file-processor",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 3,
+    "currentLesson": 29,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
@@ -50,14 +50,15 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1789927261047
   },
   {
     "id": 4,
     "dashedName": "build-a-web-server",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 1,
     "runTestsOnWatch": true,
     "seedEveryLesson": true,
     "isResetEnabled": false,
