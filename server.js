@@ -4,5 +4,6 @@ console.log(fs);
 
 const http = require("http");
 
-const data = fs.readFileSync("assets/poem.txt");
-console.log(data); // <Buffer 48 65 6c 6c 6f ...>
+fs.readFile("path/to/file.txt", { encoding: "utf8" }, (err, data) => {
+  console.log(data);
+});
